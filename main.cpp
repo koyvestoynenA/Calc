@@ -1,4 +1,4 @@
-//Release 1
+//Release 2.0
 #include "funcs.h"
 
 
