@@ -23,16 +23,16 @@ int main()
 		switch (choose)
 		{
 		case 1:
-			std::cout << "This feature is under development";
+			summary(a,b);
 			break;
 		case 2:
-			std::cout << "This feature is under development";
+			subt(a,b);
 			break;
 		case 3:
-			std::cout << "This feature is under development";
+			div(a,b);
 			break;
 		case 4:
-			std::cout << "This feature is under development";
+			mult(a,b);
 			break;
 		}
 
